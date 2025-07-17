@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi 这是我的个人主页 👋
 
-<!--
-**zk-0524/zk-0524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## **基本信息**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   **姓名**：张凯
+-   **联系电话**：15209814926
+-   **电子邮箱**：2634295761@qq.com
+-   **求职意向**：前端开发工程师
+
+## **教育背景**
+
+-   **安徽信息工程学院 | 计算机科学与技术 | 本科**
+
+    2018.09 - 2022.06
+
+    -   **主修课程**：数据结构、计算机网络、Web 前端开发、JavaScript
+
+
+## **专业技能**
+
+-  **前端技术**：熟练掌握 HTML5/CSS3、JavaScript（ES6+），熟悉 React、Vue 框架及生态（Router、Redux、Vuex）
+-   **工具与工程化**：Webpack、Vite、Git、npm/yarn，了解 CI/CD 流程
+-   **其他技能**：熟悉 Node.js 后端基础，了解 UI/UX 设计原则
+
+
+## **工作经历**
+
+### 安徽斯高德农业科技有限公司 | 前端开发工程师**
+
+2025.06 - 至今
+
+*   负责公司核心产品「干湿料喂料器系统」的前端开发与优化，重构 2 个关键模块，页面加载速度提升 20%
+
+*   参与搭建前端组件库，封装通用组件 10+，减少团队重复开发工作量 20%
